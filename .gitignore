@@ -1,0 +1,12 @@
+# Credenciales: NUNCA subir al repo
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Informes generados (contienen datos del tenant)
+reports/
